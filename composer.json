@@ -1,0 +1,11 @@
+{
+    "name": "fernando/teste_anexus",
+    "description": "Teste para empresa Anexus",
+    "authors": [
+        {
+            "name": "Fernando Henrique",
+            "email": "Fernandohpegoncalves@gmail.com"
+        }
+    ],
+    "require": {}
+}
